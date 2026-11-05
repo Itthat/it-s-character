@@ -27,7 +27,7 @@
         "label": "학교",
         "type": "category",
         "galleryGroup": true,
-        "multi": true
+        "multi": false
       },
       {
         "key": "f_1790459275250",
