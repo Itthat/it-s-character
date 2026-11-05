@@ -316,8 +316,8 @@
   },
   {
     "id": "etc",
-    "name": "ETC",
-    "shortName": "ETC",
+    "name": "기타",
+    "shortName": "기타",
     "description": "그 외 캐릭터",
     "color": "#ffb26b",
     "fixedOrderList": [
