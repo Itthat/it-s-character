@@ -300,9 +300,9 @@
     }
   },
   {
-    "id": "w_1793898084958",
-    "name": "기반",
-    "shortName": "기반",
+    "id": "w_1793898173663",
+    "name": "하즈에",
+    "shortName": "하즈에",
     "description": "",
     "color": "#9a9a9a",
     "fields": [
@@ -315,9 +315,9 @@
     ]
   },
   {
-    "id": "w_1793898173663",
-    "name": "하즈에",
-    "shortName": "하즈에",
+    "id": "w_1793898084958",
+    "name": "기반",
+    "shortName": "기반",
     "description": "",
     "color": "#9a9a9a",
     "fields": [
