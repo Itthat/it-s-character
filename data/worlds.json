@@ -606,5 +606,20 @@
       }
     ],
     "perCharacterFields": true
+  },
+  {
+    "id": "w_1793898084958",
+    "name": "기반 캐릭터",
+    "shortName": "기반 캐릭터",
+    "description": "",
+    "color": "#9a9a9a",
+    "fields": [
+      {
+        "key": "name",
+        "label": "이름",
+        "type": "text",
+        "core": true
+      }
+    ]
   }
 ]
