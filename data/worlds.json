@@ -12,7 +12,8 @@
         "type": "text",
         "core": true
       }
-    ]
+    ],
+    "perCharacterFields": true
   },
   {
     "id": "w_1793898173663",
