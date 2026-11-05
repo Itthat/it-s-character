@@ -1,20 +1,5 @@
 [
   {
-    "id": "w_1793898173663",
-    "name": "하즈에",
-    "shortName": "하즈에",
-    "description": "",
-    "color": "#9a9a9a",
-    "fields": [
-      {
-        "key": "name",
-        "label": "이름",
-        "type": "text",
-        "core": true
-      }
-    ]
-  },
-  {
     "id": "w_1790459708806",
     "name": "유메키보",
     "shortName": "유메키보",
@@ -215,6 +200,21 @@
       "2학년",
       "1학년",
       "중등부"
+    ]
+  },
+  {
+    "id": "w_1793898173663",
+    "name": "하즈에",
+    "shortName": "하즈에",
+    "description": "",
+    "color": "#9a9a9a",
+    "fields": [
+      {
+        "key": "name",
+        "label": "이름",
+        "type": "text",
+        "core": true
+      }
     ]
   },
   {
