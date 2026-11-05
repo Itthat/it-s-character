@@ -218,6 +218,21 @@
     ]
   },
   {
+    "id": "w_1793898189987",
+    "name": "하나노야",
+    "shortName": "하나노야",
+    "description": "",
+    "color": "#9a9a9a",
+    "fields": [
+      {
+        "key": "name",
+        "label": "이름",
+        "type": "text",
+        "core": true
+      }
+    ]
+  },
+  {
     "id": "w_1790458917947",
     "name": "자판기",
     "shortName": "자판기",
@@ -313,21 +328,6 @@
         "char-1792514358661"
       ]
     }
-  },
-  {
-    "id": "w_1793898189987",
-    "name": "하나노야",
-    "shortName": "하나노야",
-    "description": "",
-    "color": "#9a9a9a",
-    "fields": [
-      {
-        "key": "name",
-        "label": "이름",
-        "type": "text",
-        "core": true
-      }
-    ]
   },
   {
     "id": "w_1793898084958",
