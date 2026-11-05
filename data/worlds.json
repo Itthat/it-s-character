@@ -330,6 +330,21 @@
     ]
   },
   {
+    "id": "w_1793898173663",
+    "name": "하즈에",
+    "shortName": "하즈에",
+    "description": "",
+    "color": "#9a9a9a",
+    "fields": [
+      {
+        "key": "name",
+        "label": "이름",
+        "type": "text",
+        "core": true
+      }
+    ]
+  },
+  {
     "id": "etc",
     "name": "기타",
     "shortName": "기타",
@@ -392,20 +407,5 @@
       }
     ],
     "perCharacterFields": true
-  },
-  {
-    "id": "w_1793898173663",
-    "name": "하즈에",
-    "shortName": "하즈에",
-    "description": "",
-    "color": "#9a9a9a",
-    "fields": [
-      {
-        "key": "name",
-        "label": "이름",
-        "type": "text",
-        "core": true
-      }
-    ]
   }
 ]
