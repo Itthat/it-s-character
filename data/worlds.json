@@ -381,6 +381,11 @@
         "type": "text"
       },
       {
+        "key": "f_1793899481261",
+        "label": "러닝 커뮤니티명",
+        "type": "textarea"
+      },
+      {
         "key": "f_1793899206957",
         "label": "외관",
         "type": "textarea"
@@ -388,11 +393,6 @@
       {
         "key": "f_1793899338885",
         "label": "성격",
-        "type": "textarea"
-      },
-      {
-        "key": "f_1793899481261",
-        "label": "러닝 커뮤니티명",
         "type": "textarea"
       }
     ]
