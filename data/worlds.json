@@ -1,208 +1,5 @@
 [
   {
-    "id": "w_1790459708806",
-    "name": "YMKB",
-    "shortName": "YMKB",
-    "description": "",
-    "color": "#9a9a9a",
-    "fields": [
-      {
-        "key": "name",
-        "label": "이름",
-        "type": "text",
-        "core": true
-      },
-      {
-        "key": "f_1790459852228",
-        "label": "영어 이름",
-        "type": "text",
-        "sortKey": false
-      },
-      {
-        "key": "f_1791822992143",
-        "label": "한자 이름",
-        "type": "text"
-      },
-      {
-        "key": "f_1790459909805",
-        "label": "나이",
-        "type": "text"
-      },
-      {
-        "key": "f_1790485356104",
-        "label": "생일",
-        "type": "text"
-      },
-      {
-        "key": "f_1790460026132",
-        "label": "학과",
-        "type": "text"
-      },
-      {
-        "key": "f_1790485416027",
-        "label": "신체",
-        "type": "text"
-      },
-      {
-        "key": "f_1790460191966",
-        "label": "학년",
-        "type": "category",
-        "sidebarFilter": true
-      },
-      {
-        "key": "f_1790484073611",
-        "label": "소속",
-        "type": "tags"
-      },
-      {
-        "key": "f_1790477497994",
-        "label": "학급",
-        "type": "category",
-        "galleryGroup": true
-      },
-      {
-        "key": "f_1792200000001",
-        "label": "거주지",
-        "type": "text"
-      },
-      {
-        "key": "f_1790484157581",
-        "label": "동아리",
-        "type": "text"
-      },
-      {
-        "key": "f_1790484238483",
-        "label": "학생회",
-        "type": "text"
-      },
-      {
-        "key": "f_1790484328878",
-        "label": "기숙사",
-        "type": "text"
-      },
-      {
-        "key": "f_1790484388805",
-        "label": "소개",
-        "type": "textarea"
-      },
-      {
-        "key": "f_1790484546744",
-        "label": "성격",
-        "type": "textarea"
-      },
-      {
-        "key": "f_1790484621408",
-        "label": "좋아하는 음식",
-        "type": "text"
-      },
-      {
-        "key": "f_1790484946547",
-        "label": "싫어하는 음식",
-        "type": "text"
-      },
-      {
-        "key": "f_1790484726646",
-        "label": "좋아하는 것",
-        "type": "text"
-      },
-      {
-        "key": "f_1790484951928",
-        "label": "싫어하는 것",
-        "type": "text",
-        "sortKey": false
-      },
-      {
-        "key": "f_1790484814456",
-        "label": "좋아하는 사람",
-        "type": "text"
-      },
-      {
-        "key": "f_1790484957343",
-        "label": "싫어하는 사람",
-        "type": "text",
-        "sortKey": false
-      },
-      {
-        "key": "f_1790484965565",
-        "label": "여담",
-        "type": "textarea"
-      },
-      {
-        "key": "f_1790490251818",
-        "label": "캐릭터 이야기 1",
-        "type": "collapse"
-      },
-      {
-        "key": "f_1791664562679",
-        "label": "캐릭터 이야기 2",
-        "type": "collapse"
-      },
-      {
-        "key": "f_1791664722267",
-        "label": "캐릭터 이야기 3",
-        "type": "collapse"
-      },
-      {
-        "key": "f_1791664786222",
-        "label": "캐릭터 이야기 4",
-        "type": "collapse"
-      },
-      {
-        "key": "f_1791665631820",
-        "label": "취미",
-        "type": "text",
-        "sortKey": false
-      },
-      {
-        "key": "f_1791665663135",
-        "label": "특기",
-        "type": "text"
-      },
-      {
-        "key": "f_1790490342827",
-        "label": "보컬",
-        "type": "rating"
-      },
-      {
-        "key": "f_1790492405183",
-        "label": "정신력",
-        "type": "rating"
-      },
-      {
-        "key": "f_1790492376210",
-        "label": "무용",
-        "type": "rating"
-      },
-      {
-        "key": "f_1790492415019",
-        "label": "눈치",
-        "type": "rating"
-      },
-      {
-        "key": "f_1790492385635",
-        "label": "연기",
-        "type": "rating"
-      },
-      {
-        "key": "f_1790492423525",
-        "label": "성적",
-        "type": "rating"
-      },
-      {
-        "key": "f_1790492394900",
-        "label": "체력",
-        "type": "rating"
-      }
-    ],
-    "sortByGojuon": true,
-    "subFilterOrder": [
-      "3학년",
-      "2학년",
-      "1학년",
-      "중등부"
-    ]
-  },
-  {
     "id": "sinsekai",
     "name": "神世界",
     "shortName": "神世界",
@@ -445,6 +242,209 @@
         "아람길"
       ]
     }
+  },
+  {
+    "id": "w_1790459708806",
+    "name": "YMKB",
+    "shortName": "YMKB",
+    "description": "",
+    "color": "#9a9a9a",
+    "fields": [
+      {
+        "key": "name",
+        "label": "이름",
+        "type": "text",
+        "core": true
+      },
+      {
+        "key": "f_1790459852228",
+        "label": "영어 이름",
+        "type": "text",
+        "sortKey": false
+      },
+      {
+        "key": "f_1791822992143",
+        "label": "한자 이름",
+        "type": "text"
+      },
+      {
+        "key": "f_1790459909805",
+        "label": "나이",
+        "type": "text"
+      },
+      {
+        "key": "f_1790485356104",
+        "label": "생일",
+        "type": "text"
+      },
+      {
+        "key": "f_1790460026132",
+        "label": "학과",
+        "type": "text"
+      },
+      {
+        "key": "f_1790485416027",
+        "label": "신체",
+        "type": "text"
+      },
+      {
+        "key": "f_1790460191966",
+        "label": "학년",
+        "type": "category",
+        "sidebarFilter": true
+      },
+      {
+        "key": "f_1790484073611",
+        "label": "소속",
+        "type": "tags"
+      },
+      {
+        "key": "f_1790477497994",
+        "label": "학급",
+        "type": "category",
+        "galleryGroup": true
+      },
+      {
+        "key": "f_1792200000001",
+        "label": "거주지",
+        "type": "text"
+      },
+      {
+        "key": "f_1790484157581",
+        "label": "동아리",
+        "type": "text"
+      },
+      {
+        "key": "f_1790484238483",
+        "label": "학생회",
+        "type": "text"
+      },
+      {
+        "key": "f_1790484328878",
+        "label": "기숙사",
+        "type": "text"
+      },
+      {
+        "key": "f_1790484388805",
+        "label": "소개",
+        "type": "textarea"
+      },
+      {
+        "key": "f_1790484546744",
+        "label": "성격",
+        "type": "textarea"
+      },
+      {
+        "key": "f_1790484621408",
+        "label": "좋아하는 음식",
+        "type": "text"
+      },
+      {
+        "key": "f_1790484946547",
+        "label": "싫어하는 음식",
+        "type": "text"
+      },
+      {
+        "key": "f_1790484726646",
+        "label": "좋아하는 것",
+        "type": "text"
+      },
+      {
+        "key": "f_1790484951928",
+        "label": "싫어하는 것",
+        "type": "text",
+        "sortKey": false
+      },
+      {
+        "key": "f_1790484814456",
+        "label": "좋아하는 사람",
+        "type": "text"
+      },
+      {
+        "key": "f_1790484957343",
+        "label": "싫어하는 사람",
+        "type": "text",
+        "sortKey": false
+      },
+      {
+        "key": "f_1790484965565",
+        "label": "여담",
+        "type": "textarea"
+      },
+      {
+        "key": "f_1790490251818",
+        "label": "캐릭터 이야기 1",
+        "type": "collapse"
+      },
+      {
+        "key": "f_1791664562679",
+        "label": "캐릭터 이야기 2",
+        "type": "collapse"
+      },
+      {
+        "key": "f_1791664722267",
+        "label": "캐릭터 이야기 3",
+        "type": "collapse"
+      },
+      {
+        "key": "f_1791664786222",
+        "label": "캐릭터 이야기 4",
+        "type": "collapse"
+      },
+      {
+        "key": "f_1791665631820",
+        "label": "취미",
+        "type": "text",
+        "sortKey": false
+      },
+      {
+        "key": "f_1791665663135",
+        "label": "특기",
+        "type": "text"
+      },
+      {
+        "key": "f_1790490342827",
+        "label": "보컬",
+        "type": "rating"
+      },
+      {
+        "key": "f_1790492405183",
+        "label": "정신력",
+        "type": "rating"
+      },
+      {
+        "key": "f_1790492376210",
+        "label": "무용",
+        "type": "rating"
+      },
+      {
+        "key": "f_1790492415019",
+        "label": "눈치",
+        "type": "rating"
+      },
+      {
+        "key": "f_1790492385635",
+        "label": "연기",
+        "type": "rating"
+      },
+      {
+        "key": "f_1790492423525",
+        "label": "성적",
+        "type": "rating"
+      },
+      {
+        "key": "f_1790492394900",
+        "label": "체력",
+        "type": "rating"
+      }
+    ],
+    "sortByGojuon": true,
+    "subFilterOrder": [
+      "3학년",
+      "2학년",
+      "1학년",
+      "중등부"
+    ]
   },
   {
     "id": "w_1790458917947",
