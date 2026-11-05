@@ -1,7 +1,7 @@
 (async function () {
   // ---- GitHub 저장소 설정 ----
-  const GITHUB_OWNER = 'xowonim';
-  const GITHUB_REPO = 'oc';
+  const GITHUB_OWNER = 'Itthat';
+  const GITHUB_REPO = 'it-s-character';
   const GITHUB_BRANCH = 'main';
   const CHARACTERS_DIR = 'data/characters';
   const WORLDS_PATH = 'data/worlds.json';
