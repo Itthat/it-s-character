@@ -702,10 +702,8 @@ body {
   align-items: center;
   flex-wrap: wrap;
   gap: 6px;
-  position: absolute;
-  top: -14px;
-  left: 10px;
-  right: 10px;
+  position: static;
+  margin: 0 0 10px;
 }
 
 .template-select-row .template-select {
