@@ -339,6 +339,11 @@
         "label": "이름",
         "type": "text",
         "core": true
+      },
+      {
+        "key": "f_1793898996443",
+        "label": "한자 이름",
+        "type": "text"
       }
     ]
   },
